@@ -1,6 +1,6 @@
 # 🌍 Africa Economic, Banking & Systemic Crisis Prediction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrkhanIsmayilov992/Africa-Economic-Banking-and-Systemic-Crisis/blob/main/africa-economic-banking-and-systemic-crisis-data.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrkhanIsmayilov992/africa-economic-banking-and-systemic-crisis-data.ipynb.ipynb/blob/main/africa-economic-banking-and-systemic-crisis-data.ipynb.ipynb)
 
 A machine learning project to predict **systemic economic crises** in African countries. The project analyzes macroeconomic indicators (exchange rate, inflation, sovereign debt defaults, etc.) for 13 African countries between 1860–2014 and compares four different classification models to assess crisis risk.
 
