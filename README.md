@@ -1,10 +1,14 @@
 # 🌍 Africa Economic, Banking & Systemic Crisis Prediction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrkhanIsmayilov992/Africa-Economic-Banking-and-Systemic-Crisis/blob/main/africa-economic-banking-and-systemic-crisis-data.ipynb)
+[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrkhanIsmayilov992/Africa-Economic-Banking-and-Systemic-Crisis/blob/main/africa-economic-banking-and-systemic-crisis-data.ipynb)](https://colab.research.google.com/github/OrkhanIsmayilov992/Africa-Economic-Banking-and-Systemic-Crisis/blob/main/Africa-Economic-Banking-and-Systemic-Crisis-Data.ipynb)
+
+# 🌍 Africa Economic, Banking & Systemic Crisis Prediction
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrkhanIsmayilov992/Africa-Economic-Banking-and-Systemic-Crisis/blob/main/Africa-Economic-Banking-and-Systemic-Crisis-Data.ipynb)
 
 A machine learning project to predict **systemic economic crises** in African countries. The project analyzes macroeconomic indicators (exchange rate, inflation, sovereign debt defaults, etc.) for 13 African countries between 1860–2014 and compares four different classification models to assess crisis risk.
 
-> 🚀 **Open in Google Colab:** [Launch Notebook in Colab](https://colab.research.google.com/github/OrkhanIsmayilov992/Africa-Economic-Banking-and-Systemic-Crisis/blob/main/africa-economic-banking-and-systemic-crisis-data.ipynb)  
+> 🚀 **Open in Google Colab:** [Launch Notebook in Colab](https://colab.research.google.com/github/OrkhanIsmayilov992/Africa-Economic-Banking-and-Systemic-Crisis/blob/main/Africa-Economic-Banking-and-Systemic-Crisis-Data.ipynb)  
 > 📊 **Dataset:** [African Crises Dataset (Kaggle)](https://www.kaggle.com/datasets/chirin/africa-economic-banking-and-systemic-crisis-data)
 
 ---
@@ -60,10 +64,9 @@ This notebook covers the following steps:
 
 You can directly run this notebook in Google Colab without any local environment setup:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrkhanIsmayilov992/Africa-Economic-Banking-and-Systemic-Crisis/blob/main/africa-economic-banking-and-systemic-crisis-data.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrkhanIsmayilov992/Africa-Economic-Banking-and-Systemic-Crisis/blob/main/Africa-Economic-Banking-and-Systemic-Crisis-Data.ipynb)
 
 Alternatively, to run locally:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn
